@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: java
-          image: .
+          image: 485492729952.dkr.ecr.us-east-1.amazonaws.com/iti:26
           ports:
             - containerPort: 8090
