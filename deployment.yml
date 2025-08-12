@@ -18,6 +18,6 @@ spec:
         - name: ecr-creds
       containers:
         - name: java
-          image: 485492729952.dkr.ecr.us-east-1.amazonaws.com/iti:v29
+          image: 485492729952.dkr.ecr.us-east-1.amazonaws.com/iti:v31
           ports:
             - containerPort: 8090
