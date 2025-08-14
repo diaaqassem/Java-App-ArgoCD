@@ -7,11 +7,11 @@
 ### Multi-Repo Jenkins Pipeline with Shared Library – Developed a reusable Jenkins Shared Library (fb branch, Repo A) and integrated it with a Jenkinsfile (fp branch, Repo B) to implement modular, maintainable CI/CD pipelines across multiple projects.
 #### shared lib Repo:
 ```
-https://github.com/diaaqassem/shared-lib
+https://github.com/diaaqassem/shared-lib/tree/fb
 ```
 #### Jenkinsfile Repo: 
 ```
-https://github.com/diaaqassem/Jenkins-Java
+https://github.com/diaaqassem/Jenkins-Java/tree/fp
 ```
 #### EKS With Terraform
 ```
