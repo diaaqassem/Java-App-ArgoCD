@@ -13,6 +13,10 @@ https://github.com/diaaqassem/shared-lib
 ```
 https://github.com/diaaqassem/Jenkins-Java
 ```
+#### EKS With Terraform
+```
+https://github.com/diaaqassem/Deploy-App-EKS-Terraform
+```
 <img width="1125" height="388" alt="image" src="https://github.com/user-attachments/assets/981ca35f-3ee7-4dc2-af28-30dcc89d63c6" />
 <img width="1125" height="445" alt="image" src="https://github.com/user-attachments/assets/f34d5fd7-1847-43c7-a626-15332e2bd0e7" />
 <img width="1125" height="395" alt="image" src="https://github.com/user-attachments/assets/f4ac5841-4338-433c-8e96-a7d1b4444a2a" />
