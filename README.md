@@ -16,7 +16,7 @@ https://github.com/diaaqassem/shared-lib/tree/fb
 ```
 https://github.com/diaaqassem/Jenkins-Java/tree/fp
 ```
-#### EKS With Terraform
+#### ECR With Terraform
 ```
 https://github.com/diaaqassem/Deploy-App-EKS-Terraform
 ```
