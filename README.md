@@ -18,7 +18,7 @@ https://github.com/diaaqassem/Jenkins-Java/tree/fp
 ```
 #### ECR With Terraform
 ```
-https://github.com/diaaqassem/Deploy-App-EKS-Terraform
+https://github.com/diaaqassem/ECR-Terraform.git
 ```
 <img width="1125" height="388" alt="image" src="https://github.com/user-attachments/assets/981ca35f-3ee7-4dc2-af28-30dcc89d63c6" />
 <img width="1125" height="445" alt="image" src="https://github.com/user-attachments/assets/f34d5fd7-1847-43c7-a626-15332e2bd0e7" />
