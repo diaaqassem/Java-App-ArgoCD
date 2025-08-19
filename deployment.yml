@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: java
+  name: java-deploy
   labels:
     app: java
 spec:
@@ -18,6 +18,6 @@ spec:
         - name: ecr-creds
       containers:
         - name: java
-          image: diaaqassem1/app-java:v24
+          image: 48********.dkr.ecr.us-east-1.amazonaws.com/iti:v33
           ports:
             - containerPort: 8090
